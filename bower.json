@@ -30,6 +30,7 @@
     "respond": "~1.4.2",
     "gulp": "~3.9.0",
     "angular": "angularjs#~1.4.8",
-    "angular-translate": "~2.8.1"
+    "angular-translate": "~2.8.1",
+    "restangular": "~1.5.1"
   }
 }
