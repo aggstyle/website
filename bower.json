@@ -1,0 +1,33 @@
+{
+  "name": "AgGStyle",
+  "homepage": "https://github.com/aggstyle/website",
+  "authors": [
+    "Ricardo Zandonai <squall@outlook.com>"
+  ],
+  "description": "Agency great Style",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "js",
+    "bootstrap",
+    "java"
+  ],
+  "license": "apache 2.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "waypoints": "~4.0.0",
+    "jquery-easing": "*",
+    "jquery.nicescroll": "jquery-nicescroll#~3.6.6",
+    "jquery.simple-text-rotator": "*",
+    "slick": "*",
+    "html5shiv": "~3.7.3",
+    "font-awesome": "~4.5.0",
+    "respond": "~1.4.2",
+    "gulp": "~3.9.0"
+  }
+}
