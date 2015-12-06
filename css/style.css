@@ -415,7 +415,7 @@ a:hover {
    Welcome Section
    ========================================================================== */
 .welcome-section {
-  background-image: url('../assets/welcome-img.jpg');
+  background-image: url('../img/welcome-img.png');
   background-attachment: scroll;
   height: auto;
   width: 100%;
