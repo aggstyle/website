@@ -8,6 +8,6 @@
 			var deployedAt = window.location.href.substring(0, window.location.href);
 			newBaseUrl = deployedAt + "/api/rest/register";
 		}
-		RestangularProvider.setBaseUrl(newBaseUrl);
+		RestangularProvider.setBaseUrl(newBaseUrl); 
 	});
 }());
